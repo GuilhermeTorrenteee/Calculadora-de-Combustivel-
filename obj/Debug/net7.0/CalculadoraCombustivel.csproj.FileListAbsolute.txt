@@ -1,0 +1,15 @@
+C:\Users\Guilherme\CalculadoraCombustivel\bin\Debug\net7.0\CalculadoraCombustivel.exe
+C:\Users\Guilherme\CalculadoraCombustivel\bin\Debug\net7.0\CalculadoraCombustivel.deps.json
+C:\Users\Guilherme\CalculadoraCombustivel\bin\Debug\net7.0\CalculadoraCombustivel.runtimeconfig.json
+C:\Users\Guilherme\CalculadoraCombustivel\bin\Debug\net7.0\CalculadoraCombustivel.dll
+C:\Users\Guilherme\CalculadoraCombustivel\bin\Debug\net7.0\CalculadoraCombustivel.pdb
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.csproj.AssemblyReference.cache
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.AssemblyInfoInputs.cache
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.AssemblyInfo.cs
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.dll
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\refint\CalculadoraCombustivel.dll
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.pdb
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\CalculadoraCombustivel.genruntimeconfig.cache
+C:\Users\Guilherme\CalculadoraCombustivel\obj\Debug\net7.0\ref\CalculadoraCombustivel.dll
