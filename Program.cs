@@ -50,11 +50,9 @@ namespace CalculadoraCombustivel
                         {
 
                             if (resultado <= 8.0)
-
                                 Console.WriteLine($"Seu carro está bebendo muito fez {resultado} km/l");
 
                             else
-
                                 Console.WriteLine($"Seu carro está econômico esta fazendo {resultado} km/l");
 
                             Console.ReadKey();
@@ -87,16 +85,8 @@ namespace CalculadoraCombustivel
 
                     Console.ReadKey();
                     Menu();
-
-
                 }
             }
         }
-
-
-
     }
-
 }
-
-
